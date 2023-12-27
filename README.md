@@ -6,7 +6,7 @@ A dark, futuristic website for a gaming club using neon pink, aqua accents. Styl
 
 > [!NOTE]
 > ## License
-> This project is licensed under the MIT license. Feel free to use and modify the code as you like.
+> This project is distributed under the MIT License, The terms of the license allow you to freely use, modify, and distribute the source code contained in this repository. You may utilize and adapt the code according to the permissions granted by the MIT License without restriction.
 
 
 
